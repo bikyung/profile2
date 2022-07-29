@@ -37,6 +37,9 @@ body {
 		object-fit: cover;
 		opacity: 0.5;
 	}
+	audio {
+		display: block;
+	}
 
 	#circle {
 		width: 600px;
